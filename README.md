@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayita10
 - 👀 I’m interested in Web Development, Open source contribution and Machine Learning
-- 🌱 I’m currently 2nd year BTech(CSE) student
+- 🌱 I’m currently 3rd year BTech(CSE) student
 - 📫 Let's connect on LinkedIn: https://www.linkedin.com/in/jayita-pramanik-01bb85187
 
 <!---
