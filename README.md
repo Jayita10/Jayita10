@@ -9,7 +9,7 @@
 <a href="https://instagram.com/_.nebula._10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.nebula._10" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jayita_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jayita_10" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/jayita_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="jayita_10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jayita_!0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayita_!0" height="30" width="40" /></a>
+<a href="https://leetcode.com/jayita_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayita_!0" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
