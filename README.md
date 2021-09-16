@@ -3,7 +3,7 @@
 <br>
 <p align="centre"> <img src="https://komarev.com/ghpvc/?username=jayita10&label=Profile%20views&color=0e75b6&style=flat" alt="jayita10" /> </p>
 
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_nebula_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_nebula_10" height="30" width="40" /></a>
@@ -14,7 +14,7 @@
 <a href="https://codeforces.com/profile/jayita_10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="jayita_10" height="30" width="40" /></a>
 <a href="https://leetcode.com/jayita_10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jayita_!0" height="30" width="40" /></a>
 </p> 
-
+-->
 
 ## 🛠 &nbsp;Tech Stack
 
