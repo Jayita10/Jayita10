@@ -1,8 +1,9 @@
 <!-- <h2 align="center"></h2>
 <br> -->
-<h1 align="center">Hi! I'm Jayita 👋</h1>
-<h5 align="center">A passionate software engineer who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.</h5>
+<h2 align="center">Hi! I'm Jayita 👋</h2>
+<p align="center"> A passionate software engineer who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.<p>
 <br/>
+
 <!-- GIF -->
 <img align="right" height="300" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
@@ -52,7 +53,7 @@
 
 <!--<p>&nbsp;<img align="centre" src="https://github-readme-stats.vercel.app/api?username=jayita10&show_icons=true&locale=en" alt="jayita10" /> -->
 <br/>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jayita10&" alt="jayita10" />
+<!--img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=jayita10&" alt="jayita10" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayita10&show_icons=true&locale=en&layout=compact" alt="jayita10" ensp /></p>
 
